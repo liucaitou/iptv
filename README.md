@@ -27,3 +27,9 @@ https://cdn.jsdelivr.net/gh/liucaitou/iptv/cn.m3u
 每次更新文件时，发布一个新版本，并使用版本号获取链接：
 
 https://cdn.jsdelivr.net/gh/liucaitou/iptv@版本号/cn.m3u
+
+# 常见问题
+
+## 1：如何远程控制盒子？
+
+盒子安装TeamViewer Host，盒子和控制端需要登录同一个账号。需要把Host的节能模式禁用了，不然会出现脱机情况，链接不上。（不一定全部都会这样）
