@@ -53,11 +53,11 @@ foreach ($media_entries as $entry) {
 }
 file_put_contents($m3u_file, $file_content);
 
-//git status 判断是否有修改，有修改则提交
-$cmd = "git status";
+//git status 判断cn.m3u是否有修改，有修改则提交
+$cmd = "git status cn.m3u";
 exec($cmd, $output, $return_var);
 if (strpos($output[2], 'nothing to commit') === false) {
-    $cmd = "git add .";
+    $cmd = "git add cn.m3u";
     exec($cmd, $output, $return_var);
     $cmd = "git commit -m '移除失效源'";
     exec($cmd, $output, $return_var);
