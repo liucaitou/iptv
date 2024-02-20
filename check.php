@@ -59,7 +59,7 @@ exec($cmd, $output, $return_var);
 if (strpos($output[2], 'nothing to commit') === false) {
     $cmd = "git add cn.m3u";
     exec($cmd, $output, $return_var);
-    $cmd = "git commit -m 移除失效源";
+    $cmd = "git commit -m update m3u";
     exec($cmd, $output, $return_var);
     $cmd = "git push";
     exec($cmd, $output, $return_var);
