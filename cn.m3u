@@ -3,8 +3,6 @@
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
-http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6
@@ -13,32 +11,12 @@ https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.com/tv/广州综合.png" group-title="其它",广州综合
-http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.com/tv/广州新闻.png" group-title="其它",广州新闻
-http://php.jdshipin.com:8880/gztv.php?id=xinwen
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.com/tv/广州竞赛.png" group-title="其它",广州竞赛
-http://php.jdshipin.com:8880/gztv.php?id=jingsai
-#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.com/tv/广州影视.png" group-title="其它",广州影视
-http://php.jdshipin.com:8880/gztv.php?id=yingshi
-#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.com/tv/广州法治.png" group-title="其它",广州法治
-http://php.jdshipin.com:8880/gztv.php?id=fazhi
-#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://live.fanmingming.com/tv/广州南国都市.png" group-title="其它",广州南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
+https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
+https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-name="番禺电视台" tvg-logo="https://live.fanmingming.com/tv/番禺电视台.png" group-title="其它",番禺电视台
 http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-#EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://live.fanmingming.com/tv/佛山影视.png" group-title="其它",佛山影视
-http://php.jdshipin.com:8880/fstv.php?id=fsys
-#EXTINF:-1 tvg-name="佛山公共" tvg-logo="https://live.fanmingming.com/tv/佛山公共.png" group-title="其它",佛山公共
-http://php.jdshipin.com:8880/fstv.php?id=fsgg
-#EXTINF:-1 tvg-name="佛山南海" tvg-logo="https://live.fanmingming.com/tv/佛山南海.png" group-title="其它",佛山南海
-http://php.jdshipin.com:8880/fstv.php?id=fsnh
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://live.fanmingming.com/tv/佛山顺德.png" group-title="其它",佛山顺德
-http://php.jdshipin.com:8880/fstv.php?id=fssd
-#EXTINF:-1 tvg-name="佛山高明" tvg-logo="https://live.fanmingming.com/tv/佛山高明.png" group-title="其它",佛山高明
-http://php.jdshipin.com:8880/fstv.php?id=fsgm
-#EXTINF:-1 tvg-name="佛山三水" tvg-logo="https://live.fanmingming.com/tv/佛山三水.png" group-title="其它",佛山三水
-http://php.jdshipin.com:8880/fstv.php?id=fsss
 #EXTINF:-1 tvg-name="云浮综合" tvg-logo="https://live.fanmingming.com/tv/云浮综合.png" group-title="其它",云浮综合
 https://livestream.oeeee.com/slive/17806.m3u8
 #EXTINF:-1 tvg-name="云浮文旅" tvg-logo="https://live.fanmingming.com/tv/云浮文旅.png" group-title="其它",云浮文旅
