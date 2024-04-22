@@ -29,8 +29,6 @@ http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
 #EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/潮州民生.png" group-title="其它",潮州民生
 http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
-#EXTINF:-1 tvg-name="韶关新闻综合" tvg-logo="https://live.fanmingming.com/tv/韶关新闻综合.png" group-title="其它",韶关新闻综合
-https://livesec.mudu.tv/watch/xnjhvk.m3u8
 #EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://live.fanmingming.com/tv/GRTN文化频道.png" group-title="其它",GRTN文化频道
 https://glive.grtn.cn/live/wenhua_test0203.m3u8
 #EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://live.fanmingming.com/tv/GRTN生活频道.png" group-title="其它",GRTN生活频道
@@ -41,8 +39,6 @@ http://glive.grtn.cn/live/jilupian.m3u8
 http://glive.grtn.cn/live/health.m3u8
 #EXTINF:-1 tvg-name="GRTN荔枝台" tvg-logo="https://live.fanmingming.com/tv/GRTN荔枝台.png" group-title="其它",GRTN荔枝台
 http://glive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://live.fanmingming.com/tv/深圳都市.png" group-title="深圳",深圳都市
-http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
 #EXTINF:-1 tvg-name="深圳众创TV" tvg-logo="https://live.fanmingming.com/tv/深圳众创TV.png" group-title="深圳",深圳众创TV
 http://liveplay.sznews.com/66_showto_live/2645.m3u8
 #EXTINF:-1 tvg-name="深圳东部" tvg-logo="https://live.fanmingming.com/tv/深圳东部.png" group-title="深圳",深圳东部
