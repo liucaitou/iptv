@@ -41,7 +41,5 @@ http://glive.grtn.cn/live/health.m3u8
 http://glive.grtn.cn/live/lizhi.m3u8
 #EXTINF:-1 tvg-name="深圳众创TV" tvg-logo="https://live.fanmingming.com/tv/深圳众创TV.png" group-title="深圳",深圳众创TV
 http://liveplay.sznews.com/66_showto_live/2645.m3u8
-#EXTINF:-1 tvg-name="深圳东部" tvg-logo="https://live.fanmingming.com/tv/深圳东部.png" group-title="深圳",深圳东部
-http://liveplay.sznews.com/66_showto_live/2646.m3u8
 #EXTINF:-1 tvg-name="深圳龙岗" tvg-logo="https://live.fanmingming.com/tv/深圳龙岗.png" group-title="深圳",深圳龙岗
 http://liveplay.sznews.com/66_showto_live/2647.m3u8
