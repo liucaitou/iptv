@@ -11,8 +11,6 @@ https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV9
 https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV13
-https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV16
 https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-name="番禺电视台" tvg-logo="https://live.fanmingming.com/tv/番禺电视台.png" group-title="其它",番禺电视台
@@ -26,20 +24,6 @@ http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共" tvg-logo="https://live.fanmingming.com/tv/河源公共.png" group-title="其它",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 #EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://live.fanmingming.com/tv/潮州综合.png" group-title="其它",潮州综合
-http://time-vod-qhlive.sobeylive.com/czbtv2019/czzhpd.m3u8
-#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://live.fanmingming.com/tv/潮州民生.png" group-title="其它",潮州民生
-http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
-#EXTINF:-1 tvg-name="GRTN文化频道" tvg-logo="https://live.fanmingming.com/tv/GRTN文化频道.png" group-title="其它",GRTN文化频道
-https://glive.grtn.cn/live/wenhua_test0203.m3u8
-#EXTINF:-1 tvg-name="GRTN生活频道" tvg-logo="https://live.fanmingming.com/tv/GRTN生活频道.png" group-title="其它",GRTN生活频道
-http://glive.grtn.cn/live/life.m3u8
-#EXTINF:-1 tvg-name="GRTN纪录片频道" tvg-logo="https://live.fanmingming.com/tv/GRTN纪录片频道.png" group-title="其它",GRTN纪录片频道
-http://glive.grtn.cn/live/jilupian.m3u8
-#EXTINF:-1 tvg-name="GRTN健康频道" tvg-logo="https://live.fanmingming.com/tv/GRTN健康频道.png" group-title="其它",GRTN健康频道
-http://glive.grtn.cn/live/health.m3u8
-#EXTINF:-1 tvg-name="GRTN荔枝台" tvg-logo="https://live.fanmingming.com/tv/GRTN荔枝台.png" group-title="其它",GRTN荔枝台
-http://glive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1 tvg-name="深圳众创TV" tvg-logo="https://live.fanmingming.com/tv/深圳众创TV.png" group-title="深圳",深圳众创TV
-http://liveplay.sznews.com/66_showto_live/2645.m3u8
-#EXTINF:-1 tvg-name="深圳龙岗" tvg-logo="https://live.fanmingming.com/tv/深圳龙岗.png" group-title="深圳",深圳龙岗
-http://liveplay.sznews.com/66_showto_live/2647.m3u8
+http://www.zzlag.top:9087/tsfile/live/1066_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://live.fanmingming.com/tv/汕头综合.png" group-title="其它",汕头综合
+http://www.zzlag.top:9087/tsfile/live/1002_1.m3u8?key=txiptv
